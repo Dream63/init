@@ -1,4 +1,4 @@
-# Random2
+# init
 
 ## Кіт
 
